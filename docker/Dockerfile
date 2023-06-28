@@ -1,5 +1,5 @@
 #last version of ubuntu with blktap-utils
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210416
 
 # https://qastack.fr/programming/25899912/how-to-install-nvm-in-docker
 
