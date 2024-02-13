@@ -108,7 +108,7 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "promise-toolbox": "^0.21.0",
-    "proxy-agent": "^5.0.0",
+    "proxy-agent": "^6.3.0",
     "pug": "^3.0.0",
     "pumpify": "^2.0.0",
     "pw": "^0.0.4",
