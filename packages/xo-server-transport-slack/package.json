@@ -29,7 +29,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "@slack/webhook": "^7.0.1"
+    "@slack/webhook": "^7.0.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
