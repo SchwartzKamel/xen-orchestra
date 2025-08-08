@@ -34,7 +34,7 @@
     "@xen-orchestra/log": "^0.7.1",
     "ensure-array": "^1.0.0",
     "exec-promise": "^0.7.0",
-    "inquirer": "^8.0.0",
+    "inquirer": "^10.0.0",
     "ldapts": "^6.0.0",
     "promise-toolbox": "^0.21.0"
   },
