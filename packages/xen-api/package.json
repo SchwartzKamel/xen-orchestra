@@ -53,7 +53,7 @@
     "proxy-agent": "^6.3.1",
     "promise-toolbox": "^0.21.0",
     "pw": "0.0.4",
-    "undici": "^6.2.1",
+    "undici": "^6.23.0",
     "xo-collection": "^0.5.0"
   },
   "devDependencies": {
