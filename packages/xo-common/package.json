@@ -19,7 +19,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "lodash": "^4.16.6",
+    "lodash": "^4.17.23",
     "make-error": "^1.2.1"
   },
   "scripts": {
