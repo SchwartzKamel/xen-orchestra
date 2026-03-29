@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "bind-property-descriptor": "^2.0.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "scripts": {
     "postversion": "npm publish"
